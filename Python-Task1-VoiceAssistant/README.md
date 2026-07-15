@@ -45,4 +45,4 @@ python app.py
 - Bye
 
 ## Author
-Nidhish Kadavergu
+Reethu Jahnavi Kantu

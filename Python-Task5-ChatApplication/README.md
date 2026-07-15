@@ -68,4 +68,4 @@ Hi Alice
 
 ## Author
 
-Nidhish Kadavergu
+Reethu Jahnavi Kantu
