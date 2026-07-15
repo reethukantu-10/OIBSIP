@@ -11,7 +11,7 @@ The program accepts the user's weight and height, calculates Body Mass Index (BM
 ## Features
 
 - Accepts weight in kilograms
-- Accepts height in meters
+- Accepts height in feet and inches
 - Calculates BMI
 - Displays BMI up to two decimal places
 - Classifies BMI as:
@@ -50,7 +50,7 @@ python bmi.py
 
 Weight: 65
 
-Height: 1.72
+Height: 5 feet 8 inches
 
 ---
 
